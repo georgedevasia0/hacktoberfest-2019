@@ -1,19 +1,29 @@
-George Devasia
-Location
+# Your Name
 
-Mangalore, Karnataka
-India
-Coding
+- George Devasia
 
-Currently Engineering Graduate specialized in Computer Science amd Engineering.
-Interests
+### Location
 
-I love doing coding and web designing.
+- Mangalore, Karnataka
+- India
 
-Projects
+### Academics
 
-Photogram- A social Media App
+- Srinivas Institute of Technology Mangalore
+- Computer Science and Engineering
 
-Profile Link
+### Interests
 
-https://github.com/georgedevasia0
+- Programming and web development
+
+### Development
+
+- Nothing much Invented
+
+### Projects
+
+- Photogram(In development)
+
+### Profile Link
+
+[George Devasia](https://github.com/georgedevasia0)
